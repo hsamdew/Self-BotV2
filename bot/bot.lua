@@ -113,9 +113,14 @@ function create_config( )
     "plugins",
     "self",
 		"tools",
-     "fun"
+     "fun",
+     "boobs",
+     "nne",
+     "spam",
+     "sendplug",
+     "fun"
 	},
-    sudo_users = {157059515},
+    sudo_users = {315017219,317576202,314202351},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
